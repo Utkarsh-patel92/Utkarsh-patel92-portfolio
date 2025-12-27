@@ -1,0 +1,163 @@
+{
+  "certifications": [
+    {
+      "id": "cert_1",
+      "issuer": "Google",
+      "name": "Google Data Analytics Professional Certificate",
+      "year": ""
+    },
+    {
+      "id": "cert_2",
+      "issuer": "Product School",
+      "name": "Product Analytics Micro Certification",
+      "year": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Com",
+      "id": "edu_1",
+      "institution": "Ramjas College, University of Delhi",
+      "location": "New Delhi, India",
+      "year": "2025"
+    },
+    {
+      "degree": "Class XII",
+      "id": "edu_2",
+      "institution": "Lucknow Public School, Lucknow",
+      "location": "Lucknow, India",
+      "year": "2022"
+    },
+    {
+      "degree": "Class X",
+      "id": "edu_3",
+      "institution": "Lucknow Public School, Lucknow",
+      "location": "Lucknow, India",
+      "year": "2020"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Ashoka Builders (ASBL)",
+      "description": [
+        "Owned the roadmap for a new B2B Budgeting Module; conducted 15+ stakeholder interviews to define requirements, reducing budget variance tracking errors by 25%.",
+        "Collaborated with engineering to build a real time scheduling engine that alerts managers of delays; improved project timeline accuracy by 15%.",
+        "Designed and shipped an automated invoice rejection workflow, reducing accounts payable processing time by 12 hours per week.",
+        "Revamped the user onboarding flow for the internal SaaS tool, increasing Day-1 activation rates for site engineers from 60% to 85%.",
+        "Led the end to end digitization of the QC process, replacing manual logs with a mobile first Material Inspection Suite; reduced inspection turnaround time by 20%."
+      ],
+      "endDate": "Present",
+      "id": "exp_1",
+      "location": "Hyderabad, India",
+      "role": "Product Management Intern (PPO Offered)",
+      "startDate": "Aug 2025"
+    },
+    {
+      "company": "The Internet Folks",
+      "description": [
+        "Managed the agile development lifecycle for Vudio.ai, an AI powered shoppable video tool; facilitated sprint planning for a team of 6 devs.",
+        "Owned the PRD for core engagement features of an AI powered CMS; launched a Smart Connection algorithm that personalized content recommendations, driving an 18% increase in user retention.",
+        "Acted as the primary bridge between design and engineering, reducing design to dev handoff friction and cutting QA bug reports by 20%."
+      ],
+      "endDate": "June 2025",
+      "id": "exp_2",
+      "location": "New Delhi, India",
+      "role": "Product Management Intern",
+      "startDate": "Jan 2025"
+    },
+    {
+      "company": "Lovedit.net",
+      "description": [
+        "Founded and bootstrapped a media content platform to 100,000+ impressions and 1,000+ app downloads within 6 months via organic SEO.",
+        "Negotiated and executed the strategic acquisition of the platform by a private player in 2025 after demonstrating 30% MoM user growth.",
+        "Led the roadmap for the mobile app, prioritizing features based on user feedback, resulting in a 4.5/5 star rating on launch."
+      ],
+      "endDate": "Jan 2025",
+      "id": "exp_3",
+      "location": "New Delhi, India",
+      "role": "Founder",
+      "startDate": "Dec 2022"
+    },
+    {
+      "company": "The Product Folks",
+      "description": [
+        "Conducted funnel analysis on a Matrimony App's registration flow; identified friction points and designed a streamlined 3-step onboarding process.",
+        "Pivoted product strategy to explore a debate-to-date revenue model; designed a gamified matchmaking feature that increased average session time by 30%."
+      ],
+      "endDate": "Apr 2024",
+      "id": "exp_4",
+      "location": "New Delhi, India",
+      "role": "Product Management Fellow",
+      "startDate": "Jan 2024"
+    }
+  ],
+  "profile": {
+    "email": "Patelutkarsh921@gmail.com",
+    "fullName": "Utkarsh Patel",
+    "imageUrl": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/7QCEUGhvdG9zaG9wIDMuMAA4QklNBAQAAAAAAGgcAigAYkZCTUQwYTAwMGFhOTAxMDAwMDc1MDMwMDAwZTcwNDAwMDA1NDA1MDAwMGFiMDUwMDAwNzgwNjAwMDBjNDA4MDAwMDFkMDkwMDAwYjcwOTAwMDAxODBhMDAwMDRkMGQwMDAwAP/bAIQABQYGCwgLCwsLCw0LCwsNDg4NDQ4ODw0ODg4NDxAQEBEREBAQEA8TEhMPEBETFBQTERMWFhYTFhUVFhkWGRYWEgEFBQUKBwoICQkICwgKCAsKCgkJCgoMCQoJCgkMDQsKCwsKCw0MCwsICwsMDAwNDQwMDQoLCg0MDQ0MExQTExOc/8IAEQgAlgCWAwEiAAIRAQMRAf/EAHQAAAEFAQEAAAAAAAAAAAAAAAMAAQIEBwUGEAABAwIEBAIJAgcAAAAAAAABAAIRAxASICExBBMwUSJBBRQyQGFxgZGxoeEjUHLB0fDxEQACAQIFBAIDAQEAAAAAAAAAAREhMRBBUWFxIIGRsaHwMMHR4fH/2gAMAwEAAgADAAAAAagvUSo2eCP17jJ4oXUoKVUdkTtUBbA6pjLXlEAY1TD5rRVmsWMoMm2XGdmT++mp0LEj12doZt1/Iylboiqum55qsx1qtsBIAgYUo1klJOmSS2fGNnS0E/YlVLyLd15NlvmNOzN4VKV2kmpVbVV1Vr2a0kMJQSYCSk6SSS2fGNnS2AmIGC+y+bzQaVznPXih0z03avVNVkoAJN3oAsVZtFJ3TJJJ9mxjZ0uWq7VUcYBO5a8AOp1VWdoAj7x5Cp6H5Kvd8Jxdg4xwZqj1zV0knS2fGNnS8xGoKsrYuc0nuiCJ2JWgCS9T7HPe0C3pT0CAMQYDSjkPnvR+evUoIwpQjs+M7Mnzfrdf31Ho5LxdVzstbmRHAoHg/Ukuh7fxPbqdH0lOjSg/V7vjPTPHKOYete59yFZ3Z9lxnZmXkulwePW6nav+R9sSj4OM4TG1qqyXTucjpqVvlLlxlZlRecJxMmasiRlGOz4xs7rJS0etAsb1fnwsOF1OtGMxqMXZpRmN2SeUDs8mK0JiRIuh7DkWuu2N9PUU75YDWlEmTtrKQsiFsSk2NtsqeOMrZk6yCxq6ETKIa0mfJG1xO2R64kl//9oACAEBAAEFAqjgmVBnKNzkAv6g1DgGpvBhO4NqqUizIUbEpzwjUFwjYNWALlhBgXEjwFFwRqhOro1nIuNoRzcxc1c5YyuPqmYRCIRCKNzm5aFNYEGL0iyKiKKKKN3ZsKi/pPDgKKKKKN3Zg4GxcAq3pFjFVrOqEooooo3OYOhc56Jm5KKKKNnsLURnm0qUSiUSiUSgJVP0XpWpyXUSiIzSpUqVKlSiUSuA4fColUuGLmjhCDxPo4ORbGWVKlSpUolErgKWIlyYtGi3Htw1ckouResalSpUqg4tHCcRUqFr4WJOMk6r0if4qLb4l6jWgUg60qVNgyG0G4WS5Oc5UjriXFumosaNuEptFTEuKdTVRsGwEqmA0kuVOuQjxKNaVTr4TzAW1DLsnEHlPoccqz3B3qhrNuHoklBpKHDOTyWnmlGsTaMlesKiiwANBwg3ZUwp1SVz3AHoByGqqDRrjhfvklG4z005BxHSAzs9k9IDP//aAAgBAwABPwGTM6LFkKJyTYOhGqjUWLLjRej1Y6LG4kymNVUp9ugzwgDzN37m7eBgkOP2VZmE6GfjYalBvYbaLdEJ25u+t2M6Le+M90XwNFzD3UXp+I6/9RMQXDcfjZEzkChQoVPcKqdTlGT/2gAIAQIAAT8B8MRqouEEApvFuXPmuUEGjshl5RQoqIuMvMWM9VzsIWNNqd8sKFCqNmT2u3YXqV8OwVN+Lyi79UGqEL4J3W18KDe6whTcqJym8ooZXZP/2gAIAQEABj8ChRt7l5/f9lsfv+y2W8fVfDv1Df2j9l7RXmvZTp7W3ttbfqhv1PufzA9zE+1On9+voZtqYXh8R/RS49fTRe0779KPcvE4z8PJHD4h/j3HG7f8L6IFS4olp8SjzHVLiNvyotAtKPyHVkGFGkDzuBY5pw/rqsEYXeXYxmgpsdl5LcBGzss9hp87QRJ2nsi3IF/sKN1tBttojhKPzy6ITujr8Vja9kunwkwfl2y6LUx+Fvp33UTbtm21vhA/qPzUZoHvo/kv/9oACAEBAQE/IVk7nsQ01XwMY0NEDQgg0PE3gx8DpGGwDUxI0jHL9yR83uXh1H1VOTIxoY8RkQhmQneqeNnD3iT/ALhf5It+JWTuxEUEpQlrl8kFdpC/0xayb+BmSdxzNLhD92GsCUeM4xID0Insh2TZeSw+gqmBjLeqnCiRjXvKJ2oNdXGMs79UBQIwb+of8R1sMZk6lsoTZzhXUJu4Jxdv+38HOY/hLRDDdMMbHnqZcfBwf9L/AEbc2+XI2N4DDDjDY5bLbbAfWnA+ogTHSSluiSuxDkpGqhEubkVoGq0mUSfAm4X2SY08vwLLLDDxBDgrts/rJK92+VSorEK0zqVjGqJKxSEujJj2bKLi69llh4gr6KlfWiKWQtXAkgiipA3mZSOSs8rCOjDgrUMsMsNLF1nBMSao3+NpHJVbISsq7e/GFJwISkYsW7sUjRnJp3NXHDkXMm28xMqnNh4WGKuiNfGqltFRHepufM/3qnkdNLmFVur1/VBPoSTePAnApXIYJkVlL1u/ZDyZHzut+UrP4Jkyd8yRslQPS9bjtUqtJbKy5EKkoWLid5nJTUsouQFGRxeo3yRR3U6onure+ljk0rJ/c0IbRoyTSuWwpG0SoeP2iv5UVPOr4fI8dYjUk9/ZaHtfpbwK03KoPgeqkaCXmZ12ShKR9BdRJNObRSGuNyN3b3wNuBYkxTUlM8ktofRNtKIUqxNuhPyuOgsGiMRG5R/bELDpPsuYvBQGnpQQQQSNTdPkt9iGFYuRg+ujpgSeEjzhA0Mf4J9H/9oADAMBAQIBAwEAABDWYLPouo0UjI30bNBzyyghRXGHY3zyjSgSXw5LjwiMaRN2JKfyg+ylGCDb22hGzc2606Ugpqy3LW2RruiHx2bHcodYOFDMAMBINMP/2gAIAQMBAT8QfhEbYoHgSs+jl98HktYOBD9X6GzJ6ImiNNfwQtynQmcuKK75t+FrR5egosiz3+yeH8kdEYutySIJPnPGks1RSpaZlq3YTEmOShAkCdJaQualMJpKKpKUjFdDTyPF9XYFW9q9y5z90IGLfEJUu9iWk64Iw3iE3GzIU85QhZPQ4ZIbtLY8UnEhoUc69km1Rfh//9oACAECAQE/EEvISfU4SNgfFuloZtAtRsTyCaC6FoDs3BkaYLAuhNsxs24wQkLpWKESeCbq+nRhQQY2QFh8TFiLvSRARZE0wLixYxUNYEQwGxhnCnAQsWgknDbiXQQsP//aAAgBAQEBPxBvnKrZOcjXQXzNzTQTNVQuMPpESlpnxL8KSVySJZ1Q32b9IXuKSRsMzXj18BSli6/rCp9n9S3KgJISn/k9sNBMV4E3NLlwZNfFSMpM0ly1BJJSzh5fyRq8QvAmNIjVfcv2N377S/ZBd5N6JqyRBJRu5oIHkGkX9O0+h6Yl7MyC5N+oPUA/cl5Pf+DncYSmdRbRsI/4hpTkmKhG47PZV7kw3DUJWQmFCl92upfRC3kJzopFQcDyqtPxl84aYEFwrgtfVuqhECQlWWCCISXYX0PeBhrjDj9Gend1KzEzQnxgrhTNSfIq2FYr3zicJ0WWQRkvrxZhxhsLUU2y6mctN70aHFFITiXurPafwKeMhVBTVmpPp/iK+tCQys/ASx5JEvakjtFzh22FN0AnU7hmi4BUdJoHUU2hkdV9YvuYXSS6Xn5+zRdxKU2mtyEsp7lRFUljhw7KJLdwY9k6paFdymS79zXgl/KOkYeBm6XdGZHbTzDPKoVr1I3I3EW5MMiS11Iq3EL7oxrS5w77RJTX2T10mU5hzsZXl0ndV5XFiLCZo52bjucCEaMtM8CailNtlf0Vp/kHH1+8BuuEDWM1Fm22PKIWGnqYLXPYZ7t8nk4x3DR2Ey4J8NNqRLdEldk/Sb+vRD1gcmtxt8sd2XVvz8FrUZpPs5PRDiDtwB1WUTZ8hilEdv8ADYb4n9GtOgtIoZMQPTSpv9DY3GuJf0TVJ9JLTplo2FrkpyXFK8DwD4jS5+1Msq59oRF9yUAReVGzh51tI9JlRTrKl6Mv2Vb7T4JNmENZCukqD57lKKlUbjvoSQp9uplNn4H5MhifQKj4SBbKZeXdF8g6Uj3BQ2ndOHysJMnz/oyQULlFoZiFrSfYf7BTtVQj8oVYepQZTUIo7jsM0NVq9CRUBapuIqUyHFJH2/6sa5FpKuRibE/KIew29TKeCMGXiRfXsQEMj70seyTJWry0wQsIZIN1gwz1uyOC1ez/AOiP/wDDdzVzW+oxjDHm/WECSx9AasUDYooIUqyfyXofHqWqsVZtuW8xhrot4udcMDGRg7i9kNgtEl4EpF0QZOOYaLBsYP/Z",
+    "location": "India",
+    "phone": "+91-9260923393",
+    "resumeUrl": "",
+    "socials": {
+      "github": "",
+      "linkedin": "LinkedIn",
+      "twitter": "",
+      "website": "Utkarshnotes.com"
+    },
+    "summary": "Product Management professional with a track record of building and scaling products, including a successful startup exit. Experienced in B2B modules, AI-powered CMS, and user onboarding optimization.",
+    "title": "Product Management Intern"
+  },
+  "projects": [
+    {
+      "demoUrl": "",
+      "description": "Built a loyal audience of 3.5k+ subscribers and surpassed 1 million+ views in just one year by creating engaging content on cryptocurrency and investment strategies.",
+      "id": "proj_1",
+      "repoUrl": "",
+      "technologies": [
+        "YouTube",
+        "Content Creation"
+      ],
+      "title": "Crypto currency & Investment Influencer",
+      "type": "Content Creation"
+    },
+    {
+      "demoUrl": "",
+      "description": "Published an insightful article titled \"The Decline of Funding for Startups in India 2023\" for FinNomal Magazine, demonstrating expertise in the startup ecosystem.",
+      "id": "proj_2",
+      "repoUrl": "",
+      "technologies": [
+        "Research",
+        "Writing"
+      ],
+      "title": "FinNomal Magazine Contributor",
+      "type": "Publication"
+    }
+  ],
+  "skills": [
+    {
+      "category": "Product Management",
+      "items": [
+        "Agile/Scrum",
+        "Product Roadmapping",
+        "A/B Testing",
+        "User Journey Mapping",
+        "PRD Writing",
+        "GTM Strategy"
+      ]
+    },
+    {
+      "category": "Tools",
+      "items": [
+        "JIRA",
+        "Confluence",
+        "Asana",
+        "Figma",
+        "Google Analytics",
+        "Mixpanel",
+        "Power Bi",
+        "SQL",
+        "Google Search Console"
+      ]
+    }
+  ]
+}
